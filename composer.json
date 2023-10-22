@@ -1,0 +1,9 @@
+{
+    "name": "artem_r/hexlet-my-first-workflow",
+    "autoload": {
+        "psr-4": {
+            "ArtemR\\HexletMyFirstWorkflow\\": "src/"
+        }
+    },
+    "require": {}
+}
